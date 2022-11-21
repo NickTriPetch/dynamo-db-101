@@ -1,0 +1,10 @@
+amazonProperties:
+  enabled: true
+  accessKey: _
+  secretKey: _
+  dynamoDBEndpoint: _
+  bucketName: _
+  region: _
+
+server:
+  port: 8080
